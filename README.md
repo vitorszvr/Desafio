@@ -1,6 +1,6 @@
 # Desafio Extra - Devops
 Para instalação da Máquina virtual na Azure é necessário ter instalado Terraform e Azure CLI.
-- Terraform - https://developer.hashicorp.com/terra...
+- Terraform - [https://developer.hashicorp.com/terra...](https://developer.hashicorp.com/terraform/install)
 - Azure CLI - https://learn.microsoft.com/en-us/cli...
 
 Salve os códigos em uma pasta;  
